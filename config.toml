@@ -2,7 +2,7 @@
 room_id = 25198571
 
 # 小破站弹幕服务器地址，不用改
-ws_server_url = "wss://broadcastlv.chat.bilibili.com:2245/sub"
+ws_server_url = "wss://broadcastlv.chat.bilibili.com:443/sub"
 
 # 登录二维码生成到哪个路径，目前是生成在项目根目录下
 qr_code_path = "login_bili.png"
